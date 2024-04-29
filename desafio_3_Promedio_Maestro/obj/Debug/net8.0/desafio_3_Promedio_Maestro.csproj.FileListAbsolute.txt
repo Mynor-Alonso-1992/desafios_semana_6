@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\bin\Debug\net8.0\desafio_3_Promedio_Maestro.exe
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\bin\Debug\net8.0\desafio_3_Promedio_Maestro.deps.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\bin\Debug\net8.0\desafio_3_Promedio_Maestro.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\bin\Debug\net8.0\desafio_3_Promedio_Maestro.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\bin\Debug\net8.0\desafio_3_Promedio_Maestro.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\refint\desafio_3_Promedio_Maestro.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\desafio_3_Promedio_Maestro.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\desafio_3_Promedio_Maestro\obj\Debug\net8.0\ref\desafio_3_Promedio_Maestro.dll

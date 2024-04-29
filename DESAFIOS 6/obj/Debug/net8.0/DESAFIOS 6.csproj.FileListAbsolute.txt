@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\bin\Debug\net8.0\DESAFIOS 6.exe
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\bin\Debug\net8.0\DESAFIOS 6.deps.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\bin\Debug\net8.0\DESAFIOS 6.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\bin\Debug\net8.0\DESAFIOS 6.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\bin\Debug\net8.0\DESAFIOS 6.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\refint\DESAFIOS 6.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\DESAFIOS 6.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\DESAFIOS 6\obj\Debug\net8.0\ref\DESAFIOS 6.dll

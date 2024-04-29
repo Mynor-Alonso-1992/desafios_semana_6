@@ -1,0 +1,14 @@
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\bin\Debug\net8.0\CLASE_CAJA.exe
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\bin\Debug\net8.0\CLASE_CAJA.deps.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\bin\Debug\net8.0\CLASE_CAJA.runtimeconfig.json
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\bin\Debug\net8.0\CLASE_CAJA.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\bin\Debug\net8.0\CLASE_CAJA.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.AssemblyInfoInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.AssemblyInfo.cs
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.csproj.CoreCompileInputs.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\refint\CLASE_CAJA.dll
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.pdb
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\CLASE_CAJA.genruntimeconfig.cache
+C:\Users\meam5\OneDrive\Escritorio\TAREA PROGRA DESAFIOS\CLASE_CAJA\obj\Debug\net8.0\ref\CLASE_CAJA.dll
